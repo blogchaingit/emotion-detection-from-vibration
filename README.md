@@ -1,2 +1,2 @@
-# emotion-detection-from-vibration
+# Emotion Detection from Vibration
 Emotion Detection from Vibration
